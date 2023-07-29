@@ -1,0 +1,19 @@
+.category-details-container{
+    display: flex;
+    /* align-items: center; */
+}
+
+.category-wrapper{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+/* .category-details{
+    line-height: 0;
+} */
+.category-image{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    margin-right: 5px;
+}

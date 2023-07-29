@@ -1,0 +1,16 @@
+.watchlater-container{
+    margin-left: 20%;
+}
+.watchlater-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.watchlater-icon{
+    font-size: 1.5rem;
+    background: white;
+    color: #3ebde7;
+    position: relative;
+    top: -9.4rem;
+    right: 1.5rem;
+    border-radius: 4px;
+}

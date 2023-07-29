@@ -1,0 +1,23 @@
+.explore-container{
+    margin-left: 20%;
+}
+
+input{
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    padding: 0.5rem;
+    border-radius: 20px;
+    border: 1px solid;
+    font-size: inherit;
+}
+.explore-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+h4{
+    margin: 0;
+    width: 19rem;
+}

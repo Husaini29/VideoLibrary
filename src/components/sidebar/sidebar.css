@@ -1,0 +1,25 @@
+.sidebar-container{
+    border: 2px solid;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    width: 15%;
+    padding: 2rem 1rem;
+    line-height: 3;
+    font-size: 20px;
+}
+
+.sidebar-icons-div{
+    display: flex;
+    align-items: center;
+    align-self: center;
+    width: 65%;
+    cursor: pointer;
+}
+.sidebar-icons-div span{
+    margin-left: 1rem;
+}
+
+p{
+    margin: 0;
+}
